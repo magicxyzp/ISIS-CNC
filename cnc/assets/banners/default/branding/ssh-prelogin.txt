@@ -1,0 +1,18 @@
+***************************************************************************
+*                                                                         *
+*                     U.S. GOVERNMENT SYSTEM WARNING                      *
+*                                                                         *
+* This system is for authorized use only. Individuals using this computer *
+* system without authority, or in excess of their authority, are subject  *
+* to having all of their activities on this system monitored and recorded *
+* by system personnel.                                                    *
+*                                                                         *
+* Anyone using this system expressly consents to such monitoring and is   *
+* advised that if such monitoring reveals possible evidence of criminal   *
+* activity, system personnel may provide the evidence of such monitoring  *
+* to law enforcement officials.                                           *
+*                                                                         *
+* Unauthorized use of this system is prohibited and subject to criminal   *
+* and civil penalties.                                                    *
+*                                                                         *
+***************************************************************************

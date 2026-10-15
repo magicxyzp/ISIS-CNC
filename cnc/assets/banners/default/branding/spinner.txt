@@ -1,0 +1,12 @@
+# Window-title spinner only (<<$title.spinner>> in title.txt). Not shown in help/plan banners.
+#
+# • Two or more non-comment lines → each line is one frame (good for multi-word frames).
+# • One line → split on spaces (e.g. "I IS ISI ISIS ISIS < ISIS<3" on one line).
+# Avoid backslash \ in frames (breaks titles on some terminals).
+#
+I 
+IS 
+ISI 
+ISIS 
+ISI 
+IS 

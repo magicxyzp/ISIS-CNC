@@ -1,0 +1,6 @@
+[2026-03-22 18:41:12] admin=root action=broadcast message=sex
+[2026-03-22 18:42:08] admin=root action=setconcurrents target=root value=155
+[2026-03-22 18:43:40] admin=root action=adduser target=gay preset=MONTHLY theme=default
+[2026-03-23 02:53:45] admin=root action=users_bypass target=root blacklist=false
+[2026-03-23 03:09:52] admin=root action=users_add target=nigga interactive
+[2026-03-23 03:09:57] admin=root action=users_remove target=nigga

@@ -1,0 +1,1 @@
+All <<$group>> group slots are full (<<$used>>/<<$max>>).

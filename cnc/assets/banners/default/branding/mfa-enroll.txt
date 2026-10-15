@@ -1,0 +1,9 @@
+<<$clear>>[97m
+
+    ═══  link your authenticator  ═══
+
+    Account [1m<<$user.username>>[0;97m  ·  TOTP is required for this panel.
+
+    Scan the QR below (UTF-8 + monospace). PuTTY: Window → Translation → UTF-8.
+
+[0m

@@ -1,0 +1,7 @@
+<<$clear>>[97m
+
+    ═══  secondary verification  ═══
+
+    Account [1m<<$user.username>>[0;97m  ·  enter the 6-digit code from your authenticator app.
+
+[0m

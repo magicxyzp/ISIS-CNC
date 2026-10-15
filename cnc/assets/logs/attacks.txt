@@ -1,0 +1,15 @@
+[2026-03-22 18:27:29] user=root method=HOME host=74.74.74.74 port=53 duration=30
+[2026-03-22 18:28:27] user=root method=HOME host=74.74.74.74 port=53 duration=30
+[2026-03-22 18:34:43] user=root method=HOME host=74.74.74.74 port=30 duration=30
+[2026-03-22 18:56:23] user=root method=HOME host=74.74.74.74 port=53 duration=60 [api/ssh]
+[2026-03-22 18:56:37] user=root method=HOME host=74.74.74.74 port=53 duration=60 [api/ssh]
+[2026-03-22 18:56:37] user=root method=HOME host=74.74.74.74 port=53 duration=60 [api/ssh]
+[2026-03-23 02:12:17] user=root method=HOME host=74.74.74.74 port=80 duration=80 [api/ssh]
+[2026-03-23 02:15:01] user=root method=HOME host=74.74.74.74 port=60 duration=60 [api/ssh]
+[2026-03-23 02:21:18] user=root method=HOME host=74.74.74.74 port=60 duration=30 [api/ssh]
+[2026-03-23 02:23:47] user=root method=HOME host=74.74.74.74 port=780 duration=70 [api/ssh]
+[2026-03-23 02:26:57] user=root method=HOME host=74.74.74.74 port=53 duration=30 [api/ssh]
+[2026-03-23 02:32:15] user=root method=HOME host=74.74.74.74 port=300 duration=300 log_id=10 [api/ssh]
+[2026-03-23 02:46:20] user=root method=HOME host=74.74.74.74 port=80 duration=80 log_id=1 [api/ssh]
+[2026-03-23 02:51:55] user=root method=HOME host=http://nigga.gov port=53 duration=30 log_id=2 [api/ssh]
+[2026-03-23 02:58:15] user=root method=HOME host=74.74.74.74 port=64 duration=64 log_id=3 [api/ssh]

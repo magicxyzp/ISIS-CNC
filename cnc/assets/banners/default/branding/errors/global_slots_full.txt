@@ -1,0 +1,1 @@
+All attack slots are full (<<$used>>/<<$max>>).

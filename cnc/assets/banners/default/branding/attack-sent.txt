@@ -1,0 +1,1 @@
+[92m[+] Attack sent[97m  <<$target.method>>  <<$target.host>>:<<$target.port>>  [90m<<$target.duration>>s[97m  @ <<$target.timesent>>

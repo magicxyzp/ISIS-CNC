@@ -1,0 +1,1 @@
+[97m<<$user.username>>@[91mNet[97m: 

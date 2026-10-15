@@ -1,0 +1,1 @@
+All <<$method>> slots are full (<<$used>>/<<$max>>).

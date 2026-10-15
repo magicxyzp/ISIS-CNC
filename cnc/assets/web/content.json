@@ -1,0 +1,76 @@
+{
+  "nav": {
+    "brand": "ISIS"
+  },
+  "hero": {
+    "badge": "Premium Layer 4 & Layer 7",
+    "headline": "Network stress testing,\nrebuilt from scratch.",
+    "subheadline": "Enterprise-grade infrastructure. Instant deployment. Full control.",
+    "cta_primary_label": "Get Access",
+    "cta_primary_href": "#contact",
+    "cta_secondary_label": "Learn More",
+    "cta_secondary_href": "#features"
+  },
+  "features": [
+    {
+      "title": "Layer 4 & Layer 7",
+      "desc": "Full protocol coverage across UDP, TCP, and HTTP-based vectors."
+    },
+    {
+      "title": "Real-Time Control",
+      "desc": "SSH-based command panel with live attack monitoring and slot management."
+    },
+    {
+      "title": "Diagnostics",
+      "desc": "Ping and TCP checks powered by check-host.net from the SSH panel."
+    },
+    {
+      "title": "Webhook Alerts",
+      "desc": "Instant Telegram and Discord notifications on every attack event."
+    },
+    {
+      "title": "Role System",
+      "desc": "Granular user roles — admin, mod, reseller, VIP — with per-user limits."
+    },
+    {
+      "title": "API Access",
+      "desc": "Programmatic attack dispatch via simple HTTP query parameters."
+    }
+  ],
+  "pricing": [
+    {
+      "name": "Monthly",
+      "price": "$X",
+      "period": "/ month",
+      "features": ["1 Concurrent", "Up to 300s", "All Methods"],
+      "cta_label": "Get Access",
+      "cta_href": "#contact"
+    },
+    {
+      "name": "Monthly VIP",
+      "price": "$X",
+      "period": "/ month",
+      "features": ["1 Concurrent", "Up to 300s", "VIP Methods", "Priority Support"],
+      "cta_label": "Get Access",
+      "cta_href": "#contact",
+      "highlight": true
+    },
+    {
+      "name": "Lifetime",
+      "price": "$X",
+      "period": "one-time",
+      "features": ["1 Concurrent", "Up to 600s", "All Methods"],
+      "cta_label": "Get Access",
+      "cta_href": "#contact"
+    }
+  ],
+  "contact": {
+    "heading": "Ready to get started?",
+    "subheading": "Reach out with questions or for more information.",
+    "telegram_label": "Contact on Telegram",
+    "telegram_href": "https://t.me/yourhandle"
+  },
+  "footer": {
+    "service_name": "Cypher C2 aka paris"
+  }
+}
